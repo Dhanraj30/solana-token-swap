@@ -1,0 +1,77 @@
+# Node.js specific
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Compiled binary addons (like node-sass)
+build/Release
+
+# dotenv environment file
+.env
+
+# macOS specific files
+.DS_Store
+
+# IDE/editor specific files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Compiled output
+dist/
+out/
+*.exe
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Typescript specific
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional yarn cache directory
+.yarn/cache
+.yarn/unplugged
+
+# Optional parcel-bundler cache directory
+.cache
+.parcel-cache
+
+# Optionally Docker
+docker-compose.override.yml
+docker-compose.yml
+.dockerignore
+
+# Jest testing framework
+coverage/
+
+# Next.js
+.next/
+out/
+
+# Nuxt.js
+.nuxt/
+dist/
+
+# Vuepress build output
+.vuepress/dist
+
+# Yarn 2
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*

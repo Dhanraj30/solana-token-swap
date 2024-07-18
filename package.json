@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@jup-ag/core": "^3.0.0-alpha.1",
     "@project-serum/serum": "^0.13.65",
     "@solana/spl-token": "^0.4.8",
     "@solana/spl-token-swap": "^0.4.3",
