@@ -14,7 +14,7 @@ To get started with this project, follow the instructions below.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/solana-token-swap.git
+   git clone https://github.com/Dhanraj30/solana-token-swap.git
    ```
 
 2. Navigate into the project directory:
